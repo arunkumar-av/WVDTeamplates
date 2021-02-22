@@ -25,6 +25,7 @@
                 "Windows-10-Enterprise-multi-session-2004",
                 "Windows-10-Enterprise-multi-session-1909",
                 "Windows-10-Enterprise-multi-session-1903",
+                "Windows-10-Enterprise-multi-session-1809",
                 "Windows-10-Enterprise-Latest",
                 "Windows-10-Enterprise-2004",
                 "Windows-10-Enterprise-1909",
@@ -174,6 +175,11 @@
                 "galleryPublisher": "MicrosoftWindowsDesktop",
                 "galleryOffer": "Windows-10",
                 "gallerySku": "19h1-evd"
+            },
+             "Windows-10-Enterprise-multi-session-1809": {
+                "galleryPublisher": "MicrosoftWindowsDesktop",
+                "galleryOffer": "Windows-10",
+                "gallerySku": "rs5-evd-g2"
             },
             "Windows-10-Enterprise-Latest": {
                 "galleryPublisher": "MicrosoftWindowsDesktop",
