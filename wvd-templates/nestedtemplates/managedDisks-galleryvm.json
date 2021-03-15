@@ -159,7 +159,7 @@
             "Windows-10-Enterprise-multi-session": {
                 "galleryPublisher": "MicrosoftWindowsDesktop",
                 "galleryOffer": "Windows-10",
-                "gallerySku": "20h1-evd"
+                "gallerySku": "20h2-evd-g2"
             },
             "Windows-10-Enterprise-multi-session-2004": {
                 "galleryPublisher": "MicrosoftWindowsDesktop",
